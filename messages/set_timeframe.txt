@@ -1,0 +1,2 @@
+You've set a new monitoring timeframe: {hours} hours.
+We will calculate price changes based on this timeframe. ⏳

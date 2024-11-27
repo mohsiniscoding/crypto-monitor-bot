@@ -1,0 +1,8 @@
+📊 Current Status:
+
+Tracked Symbols: 
+{symbols}
+
+
+Timeframe: {timeframe} hours
+Threshold: {threshold}%

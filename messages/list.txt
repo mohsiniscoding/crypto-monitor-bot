@@ -1,0 +1,4 @@
+Here is your current watchlist: 
+{symbols}
+To add a cryptocurrency, use /add <symbol>.
+To remove one, use /remove <symbol>.

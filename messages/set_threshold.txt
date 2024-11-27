@@ -1,0 +1,2 @@
+You've set a new price change threshold: {percentage}%.
+We will notify you if the price of your tracked cryptocurrencies changes by this percentage or more. 🔔

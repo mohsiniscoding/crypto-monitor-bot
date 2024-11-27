@@ -1,0 +1,14 @@
+Welcome to the Crypto Tracker Bot! 🚀
+
+This bot helps you monitor cryptocurrency rates and stay updated with price changes. Use the commands below to get started:
+
+/add <symbol> - Add a cryptocurrency to your watchlist.
+/remove <symbol> - Remove a cryptocurrency from your watchlist.
+/set_threshold <percentage> - Set a price change threshold for alerts.
+/set_timeframe <hours> - Define the timeframe for monitoring price changes.
+/list - View your current watchlist.
+/status - View the current status of your tracked symbols, timeframe, and threshold.
+
+Type /help for more information about each command.
+
+Happy tracking! 💹

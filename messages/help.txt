@@ -1,0 +1,13 @@
+Crypto Tracker Bot Help 📖
+
+Here’s a quick overview of the commands:
+
+/start - Introduction and guide to using the bot.
+/add <symbol> - Add a cryptocurrency to your watchlist (e.g., /add BTCUSDT).
+/remove <symbol> - Remove a cryptocurrency from your watchlist.
+/set_threshold <percentage> - Set a price change threshold (e.g., /set_threshold 5).
+/set_timeframe <hours> - Set the monitoring timeframe (e.g., /set_timeframe 24).
+/list - Show your current watchlist.
+/status - View the current status of your tracked symbols, timeframe, and threshold.
+
+For any issues or feedback, contact our support team.

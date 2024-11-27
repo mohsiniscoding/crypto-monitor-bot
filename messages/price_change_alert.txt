@@ -1,0 +1,4 @@
+📈 Price Alert! 
+The price of {symbol} has changed by {percentage}% in the last {hours} hours.
+Current price: {current_price}
+Previous price: {previous_price}
